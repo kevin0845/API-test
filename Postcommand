@@ -1,0 +1,46 @@
+{
+  "account": {
+    "realm": "SMG",
+    "accountid": "APEXVCA000001"
+  },
+  "security": {
+    "realm": "SMG",
+    "symbol": "SYVCA000001"
+  },
+  "tag_no":  "032133678X",
+  "subaccount_type": "Cash",
+  "transaction_type": "Buy",
+  "currency": "USD",
+  "quantity": 500,
+  "price": 90.25,
+  "commission": 9.50,
+  "net": 45134.5,
+  "back_office_tran_num":  "2018-05-16B00001",
+  "ise_type": "Buy",
+  "description": "One more description",
+  "note1": "A note1",
+  "note2": "A note2",
+  "note3": "A note3",
+  "trade_date": "2018-05-16",
+  "trade_time": "09:35:23.847",
+  "settlement_date": "2018-05-18",
+  "true_zero_indicator": false,
+  "fx_spot_rate": 1.0,
+  "account_positions": [{
+    "subaccount_type": "Cash",
+    "currency": "USD",
+    "quantity": 100,
+     "security": {
+     "realm": "SMG",
+     "sec_no": "VCA000001"
+   }
+   },{
+     "subaccount_type": "Cash",
+    "currency": "USD",
+     "quantity": 300,
+     "security": {
+     "realm": "SMG",
+     "sec_no": "VCA000001"
+   }
+   }]
+}
